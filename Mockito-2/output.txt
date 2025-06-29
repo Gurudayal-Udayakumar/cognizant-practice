@@ -1,0 +1,2 @@
+Running MyServiceTest
+Tests run: 2, Failures: 0

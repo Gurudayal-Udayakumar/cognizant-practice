@@ -1,0 +1,6 @@
+Transfer succeeded.
+Transfer failed: ORA-20001: Not enough funds
+Salary updated.
+Salary update error: ORA-20002: No such staff found
+Customer registered.
+Customer already exists

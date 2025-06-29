@@ -1,0 +1,4 @@
+Interest discount given to senior clients.
+High-value customers marked as VIP.
+Loan #1001 for customer 1 is due on 11-JUL-2025
+Loan #1003 for customer 3 is due on 24-JUL-2025

@@ -1,0 +1,2 @@
+[main] ERROR LoggingExample - This is an error message
+[main] WARN  LoggingExample - This is a warning message
