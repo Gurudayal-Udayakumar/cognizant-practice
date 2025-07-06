@@ -1,0 +1,2 @@
+Welcome to the Library Management System.
+Featured Book: Java: The Complete Reference
