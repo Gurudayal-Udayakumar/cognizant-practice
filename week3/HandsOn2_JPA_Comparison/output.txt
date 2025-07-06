@@ -1,0 +1,8 @@
+Hibernate:
+Manually open session, handle transaction, save entity
+
+Spring Data JPA:
+Autowire repository and call save()
+
+Result:
+Spring Data JPA requires less code and provides abstraction.

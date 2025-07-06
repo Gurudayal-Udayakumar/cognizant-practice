@@ -1,0 +1,13 @@
+JPA:
+- Java Persistence API (standard)
+- Only provides specification (no implementation)
+- Needs a provider (like Hibernate)
+
+Hibernate:
+- ORM tool and JPA implementation
+- Handles mapping, sessions, transactions manually
+
+Spring Data JPA:
+- Built on top of JPA
+- Auto-wires Repository interfaces
+- Simplifies boilerplate code and manages transactions
